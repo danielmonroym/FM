@@ -1,0 +1,25 @@
+.main-brand{
+    font-size: 60px;
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Kaushan Script', cursive;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.story-title{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
+    margin: 15px 0;
+}
+.story-text{
+    line-height: 1.5;
+}
+.row{
+    display: flex;
+    align-items: stretch;
+}
+.story{
+    border: 1px solid #333;
+    padding:10px;
+}
